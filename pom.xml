@@ -27,5 +27,6 @@
 
     <modules>
       <module>nonrootchild</module>
-    </modules>
+    <module>anotherchild</module>
+  </modules>
 </project>
