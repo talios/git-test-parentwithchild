@@ -4,18 +4,18 @@
   <parent>
     <artifactId>roottest</artifactId>
     <groupId>com.talios</groupId>
-    <version>1.0.6</version>
+    <version>1.0.7-SNAPSHOT</version>
   </parent>
   <groupId>com.talios</groupId>
   <artifactId>anotherchild</artifactId>
-  <version>1.0.6</version>
+  <version>1.0.7-SNAPSHOT</version>
   <name>anotherchild</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
       <groupId>com.talios</groupId>
       <artifactId>nonrootchild</artifactId>
-      <version>1.0.6</version>
+      <version>1.0.7-SNAPSHOT</version>
     </dependency>
   </dependencies>
   <properties>
