@@ -8,7 +8,7 @@
     <name>Root parent with children</name>
 
   <scm>
-    <developerConnection>scm:git:git://git@/git@github.com/talios/git-test-parentwithchild.git</developerConnection>
+    <developerConnection>scm:git:git://github.com/talios/git-test-parentwithchild.git</developerConnection>
   </scm>
 
   <distributionManagement>
