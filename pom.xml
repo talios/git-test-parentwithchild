@@ -13,12 +13,12 @@
 
   <distributionManagement>
       <repository>
-          <uniqueVersion>false</uniqueVersion>
+          <uniqueVersion>true</uniqueVersion>
           <id>smx-releases</id>
           <url>http://build.smx.co.nz:8081/nexus/content/repositories/releases</url>
       </repository>
       <snapshotRepository>
-          <uniqueVersion>false</uniqueVersion>
+          <uniqueVersion>true</uniqueVersion>
           <id>smx-snapshots</id>
           <url>http://build.smx.co.nz:8081/nexus/content/repositories/snapshots</url>
       </snapshotRepository>
