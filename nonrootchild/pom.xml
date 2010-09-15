@@ -3,12 +3,12 @@
 
   <parent>
 	<groupId>com.talios</groupId>
-    <version>1.0.5-SNAPSHOT</version>
+    <version>1.0.5</version>
     <artifactId>roottest</artifactId>
   </parent>
 
   <artifactId>nonrootchild</artifactId>
-  <version>1.0.5-SNAPSHOT</version>
+  <version>1.0.5</version>
   <packaging>jar</packaging>
 
   <name>nonrootchild</name>
